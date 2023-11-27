@@ -3,7 +3,7 @@
 
 WIP
 
-## What It Blocks
+## Available Blocklists
 1. Invidious
 2. DNS Providers (Mullvad)
 3. Search Engines
