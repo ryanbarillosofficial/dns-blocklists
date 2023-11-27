@@ -4,6 +4,9 @@
 ##
 ##  Pulled from Mullvad Browser
 ##
+##  For the purpose of enforcing your own DNS server without
+##  Mullvad Browser bypassing it with its default providers
+##
 ##
 
 # Mullvad (Default)

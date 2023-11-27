@@ -1,7 +1,7 @@
 # DNS Blocklists for Lockdown Environments
 ### Block access to Internet distractions, and get the task done
 
-WIP
+Support for IPv4 and IPv6
 
 ## Available Blocklists
 1. Invidious
