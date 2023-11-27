@@ -1,0 +1,252 @@
+##
+##
+##  Invidious (Hosts)
+##
+##  For the purpose of blocking mindless
+##  Video watching on mobile devices
+##
+##  And a loophole when blocking all YouTube domains
+##
+##
+
+#
+# Invidious Home Page
+#
+0.0.0.0 invidious.io
+0.0.0.0 www.invidious.io
+::1 invidious.io
+::1 www.invidious.io
+
+#
+# Invidious Documentation Page
+#
+0.0.0.0 docs.invidious.io
+0.0.0.0 www.docs.invidious.io
+::1 docs.invidious.io
+::1 www.docs.invidious.io
+
+#
+# Invidious Instances Page
+#
+0.0.0.0 instances.invidious.io
+0.0.0.0 www.instances.invidious.io
+::1 instances.invidious.io
+::1 www.instances.invidious.io
+
+#
+# Invidious Redirect
+#
+0.0.0.0 redirect.invidious.io
+0.0.0.0 www.redirect.invidious.io
+::1 redirect.invidious.io
+::1 www.redirect.invidious.io
+
+#
+# Invidious API
+#
+0.0.0.0 api.invidious.io
+0.0.0.0 www.api.invidious.io
+::1 api.invidious.io
+::1 www.api.invidious.io
+
+#
+# Google Video
+#
+0.0.0.0 googlevideo.com
+0.0.0.0 video.google.com
+0.0.0.0 www.googlevideo.com
+0.0.0.0 www.video.google.com
+::1 googlevideo.com
+::1 video.google.com
+::1 www.googlevideo.com
+::1 www.video.google.com
+
+
+
+
+
+#
+# Invidious Instances
+#
+0.0.0.0 anontube.lvkaszus.pl
+0.0.0.0 www.anontube.lvkaszus.pl
+::1 anontube.lvkaszus.pl
+::1 www.anontube.lvkaszus.pl
+
+0.0.0.0 inv.in.projectsegfau.lt
+0.0.0.0 www.inv.in.projectsegfau.lt
+::1 inv.in.projectsegfau.lt
+::1 www.inv.in.projectsegfau.lt
+
+0.0.0.0 inv.citw.lgbt
+0.0.0.0 www.inv.citw.lgbt
+::1 inv.citw.lgbt
+::1 www.inv.citw.lgbt
+
+0.0.0.0 inv.tux.pizza
+0.0.0.0 www.inv.tux.pizza
+::1 inv.tux.pizza
+::1 www.inv.tux.pizza
+
+0.0.0.0 inv.us.projectsegfau.lt
+0.0.0.0 www.inv.us.projectsegfau.lt
+::1 inv.us.projectsegfau.lt
+::1 www.inv.us.projectsegfau.lt
+
+0.0.0.0 inv.zzls.xyz
+0.0.0.0 invidious.asir.dev
+0.0.0.0 invidious.baczek.me
+0.0.0.0 invidious.drgns.space
+0.0.0.0 invidious.einfachzocken.eu
+0.0.0.0 invidious.fdn.fr
+0.0.0.0 invidious.flokinet.to
+0.0.0.0 invidious.io.lol
+0.0.0.0 invidious.lunar.icu
+0.0.0.0 invidious.nerdvpn.de
+0.0.0.0 invidious.no-logs.com
+0.0.0.0 invidious.perennialte.ch
+0.0.0.0 invidious.privacydev.net
+0.0.0.0 invidious.private.coffee
+0.0.0.0 invidious.projectsegfau.lt
+0.0.0.0 invidious.protokolla.fi
+0.0.0.0 invidious.slipfox.xyz
+0.0.0.0 iv.datura.network
+0.0.0.0 iv.ggtyler.dev
+0.0.0.0 iv.melmac.space
+0.0.0.0 iv.nboeck.de
+0.0.0.0 onion.tube
+0.0.0.0 vid.priv.au
+0.0.0.0 vid.puffyan.us
+0.0.0.0 yewtu.be
+0.0.0.0 yt.artemislena.eu
+0.0.0.0 yt.cdaut.de
+0.0.0.0 yt.drgnz.club
+0.0.0.0 yt.oelrichsgarcia.de
+
+
+
+
+
+
+0.0.0.0 www.inv.zzls.xyz
+0.0.0.0 www.invidious.asir.dev
+0.0.0.0 www.invidious.baczek.me
+0.0.0.0 www.invidious.drgns.space
+0.0.0.0 www.invidious.einfachzocken.eu
+0.0.0.0 www.invidious.fdn.fr
+0.0.0.0 www.invidious.flokinet.to
+0.0.0.0 www.invidious.io.lol
+0.0.0.0 www.invidious.lunar.icu
+0.0.0.0 www.invidious.nerdvpn.de
+0.0.0.0 www.invidious.no-logs.com
+0.0.0.0 www.invidious.perennialte.ch
+0.0.0.0 www.invidious.privacydev.net
+0.0.0.0 www.invidious.private.coffee
+0.0.0.0 www.invidious.projectsegfau.lt
+0.0.0.0 www.invidious.protokolla.fi
+0.0.0.0 www.invidious.slipfox.xyz
+0.0.0.0 www.iv.datura.network
+0.0.0.0 www.iv.ggtyler.dev
+0.0.0.0 www.iv.melmac.space
+0.0.0.0 www.iv.nboeck.de
+0.0.0.0 www.onion.tube
+0.0.0.0 www.vid.priv.au
+0.0.0.0 www.vid.puffyan.us
+0.0.0.0 www.yewtu.be
+0.0.0.0 www.yt.artemislena.eu
+0.0.0.0 www.yt.cdaut.de
+0.0.0.0 www.yt.drgnz.club
+0.0.0.0 www.yt.oelrichsgarcia.de
+
+
+
+
+
+::1 inv.zzls.xyz
+::1 invidious.asir.dev
+::1 invidious.baczek.me
+::1 invidious.drgns.space
+::1 invidious.einfachzocken.eu
+::1 invidious.fdn.fr
+::1 invidious.flokinet.to
+::1 invidious.io.lol
+::1 invidious.lunar.icu
+::1 invidious.nerdvpn.de
+::1 invidious.no-logs.com
+::1 invidious.perennialte.ch
+::1 invidious.privacydev.net
+::1 invidious.private.coffee
+::1 invidious.projectsegfau.lt
+::1 invidious.protokolla.fi
+::1 invidious.slipfox.xyz
+::1 iv.datura.network
+::1 iv.ggtyler.dev
+::1 iv.melmac.space
+::1 iv.nboeck.de
+::1 onion.tube
+::1 vid.priv.au
+::1 vid.puffyan.us
+::1 yewtu.be
+::1 yt.artemislena.eu
+::1 yt.cdaut.de
+::1 yt.drgnz.club
+::1 yt.oelrichsgarcia.de
+
+
+
+
+
+::1 www.inv.zzls.xyz
+::1 www.invidious.asir.dev
+::1 www.invidious.baczek.me
+::1 www.invidious.drgns.space
+::1 www.invidious.einfachzocken.eu
+::1 www.invidious.fdn.fr
+::1 www.invidious.flokinet.to
+::1 www.invidious.io.lol
+::1 www.invidious.lunar.icu
+::1 www.invidious.nerdvpn.de
+::1 www.invidious.no-logs.com
+::1 www.invidious.perennialte.ch
+::1 www.invidious.privacydev.net
+::1 www.invidious.private.coffee
+::1 www.invidious.projectsegfau.lt
+::1 www.invidious.protokolla.fi
+::1 www.invidious.slipfox.xyz
+::1 www.iv.datura.network
+::1 www.iv.ggtyler.dev
+::1 www.iv.melmac.space
+::1 www.iv.nboeck.de
+::1 www.onion.tube
+::1 www.vid.priv.au
+::1 www.vid.puffyan.us
+::1 www.yewtu.be
+::1 www.yt.artemislena.eu
+::1 www.yt.cdaut.de
+::1 www.yt.drgnz.club
+::1 www.yt.oelrichsgarcia.de
+
+#
+# Misc, can be cnanged
+#
+0.0.0.0 rr1---sn-1gi7znek.googlevideo.com
+0.0.0.0 rr1---sn-1gieen7e.googlevideo.com
+0.0.0.0 rr1---sn-uxgg5-njaes.googlevideo.com
+::1 rr1---sn-1gi7znek.googlevideo.com
+::1 rr1---sn-1gieen7e.googlevideo.com
+::1 rr1---sn-uxgg5-njaes.googlevideo.com
+
+0.0.0.0 rr2---sn-1gi7znes.googlevideo.com
+0.0.0.0 rr2---sn-npoe7ned.googlevideo.com
+::1 rr2---sn-1gi7znes.googlevideo.com
+::1 rr2---sn-npoe7ned.googlevideo.com
+
+0.0.0.0 rr3---sn-1gi7znek.googlevideo.com
+0.0.0.0 rr3---sn-njaeyn7z.googlevideo.com
+0.0.0.0 rr3---sn-uxgg5-njar.googlevideo.com
+::1 rr3---sn-1gi7znek.googlevideo.com
+::1 rr3---sn-njaeyn7z.googlevideo.com
+::1 rr3---sn-uxgg5-njar.googlevideo.com
+
+0.0.0.0 rr5---sn-4g5ednly.googlevideo.com
+::1 rr5---sn-4g5ednly.googlevideo.com

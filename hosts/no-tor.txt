@@ -1,0 +1,191 @@
+##
+##  Hosts File to block Tor Browser
+##
+
+##
+## Tor Project Official Sites
+##
+0.0.0.0 torproject.org
+0.0.0.0 gettor.torproject.org
+0.0.0.0 support.torproject.org
+0.0.0.0 tb-manual.torproject.org
+::1 torproject.org
+::1 support.torproject.org
+::1 gettor.torproject.org
+::1 tb-manual.torproject.org
+0.0.0.0 www.torproject.org
+0.0.0.0 www.support.torproject.org
+0.0.0.0 gettor.torproject.org
+0.0.0.0 tb-manual.torproject.org
+::1 www.torproject.org 
+::1 www.support.torproject.org
+::1 www.gettor.torproject.org
+::1 www.tb-manual.torproject.org
+
+##
+## Tor Project Official Mirrors
+##
+0.0.0.0 tor.eff.org
+0.0.0.0 tor.calyxinstitute.org
+::1 tor.eff.org
+::1 tor.calyxinstitute.org
+0.0.0.0 www.tor.eff.org
+0.0.0.0 www.tor.calyxinstitute.org
+::1 www.tor.eff.org
+::1 www.tor.calyxinstitute.org
+
+
+##
+## torbrowser-launcher Mirrors
+## Pulled from this source:
+##
+##  https://github.com/torproject/torbrowser-launcher/blob/main/share/torbrowser-launcher/mirrors.txt
+##  https://2019.www.torproject.org/getinvolved/mirrors.html.en
+##
+##
+0.0.0.0 108.248.87.242
+0.0.0.0 creep.im
+0.0.0.0 cyberside.net.ee
+0.0.0.0 dist.torproject.org
+0.0.0.0 eprci.com
+0.0.0.0 fr.mirror.babylon.network
+0.0.0.0 it-sicherheitschannel.de
+0.0.0.0 mirror.freedif.org
+0.0.0.0 mirror.ntzk.de
+0.0.0.0 mirror.oldsql.cc
+0.0.0.0 mirror.torworld.org
+0.0.0.0 mirror.velcommuta.de
+0.0.0.0 moparisthebest.com
+0.0.0.0 nl.mirror.babylon.network
+0.0.0.0 sela.io
+0.0.0.0 tor.0x3d.lu
+0.0.0.0 tor.127001.ovh
+0.0.0.0 tor.crazyhaze.de
+0.0.0.0 tor.eff.org
+0.0.0.0 tor.ccc.de
+0.0.0.0 tor.myrl.net
+0.0.0.0 tor.secure.voyage
+0.0.0.0 tor.stalkr.net
+0.0.0.0 tor.void.gr
+0.0.0.0 tor.ybti.net
+0.0.0.0 tor.zilog.es
+0.0.0.0 tor-mirror.cyberguerrilla.org
+0.0.0.0 tormirror.snydernet.net
+0.0.0.0 tormirror.tb-itf-tor.de
+0.0.0.0 torproject.mirror.metalgamer.eu
+0.0.0.0 torproject.ph3x.at
+0.0.0.0 torservers.net
+::1 108.248.87.242
+::1 creep.im
+::1 cyberside.net.ee
+::1 dist.torproject.org
+::1 eprci.com
+::1 fr.mirror.babylon.network
+::1 it-sicherheitschannel.de
+::1 mirror.freedif.org
+::1 mirror.ntzk.de
+::1 mirror.oldsql.cc
+::1 mirror.torworld.org
+::1 mirror.velcommuta.de
+::1 moparisthebest.com
+::1 nl.mirror.babylon.network
+::1 sela.io
+::1 tor.0x3d.lu
+::1 tor.127001.ovh
+::1 tor.crazyhaze.de
+::1 tor.eff.org
+::1 tor.ccc.de
+::1 tor.myrl.net
+::1 tor.secure.voyage
+::1 tor.stalkr.net
+::1 tor.void.gr
+::1 tor.ybti.net
+::1 tor.zilog.es
+::1 tor-mirror.cyberguerrilla.org
+::1 tormirror.snydernet.net
+::1 tormirror.tb-itf-tor.de
+::1 torproject.mirror.metalgamer.eu
+::1 torproject.ph3x.at
+::1 torservers.net
+0.0.0.0 www.108.248.87.242
+0.0.0.0 www.creep.im
+0.0.0.0 www.cyberside.net.ee
+0.0.0.0 www.dist.torproject.org
+0.0.0.0 www.eprci.com
+0.0.0.0 www.fr.mirror.babylon.network
+0.0.0.0 www.it-sicherheitschannel.de
+0.0.0.0 www.mirror.freedif.org
+0.0.0.0 www.mirror.ntzk.de
+0.0.0.0 www.mirror.oldsql.cc
+0.0.0.0 www.mirror.torworld.org
+0.0.0.0 www.mirror.velcommuta.de
+0.0.0.0 www.moparisthebest.com
+0.0.0.0 www.nl.mirror.babylon.network
+0.0.0.0 www.sela.io
+0.0.0.0 www.tor.0x3d.lu
+0.0.0.0 www.tor.127001.ovh
+0.0.0.0 www.tor.crazyhaze.de
+0.0.0.0 www.tor.eff.org
+0.0.0.0 www.tor.ccc.de
+0.0.0.0 www.tor.myrl.net
+0.0.0.0 www.tor.secure.voyage
+0.0.0.0 www.tor.stalkr.net
+0.0.0.0 www.tor.void.gr
+0.0.0.0 www.tor.ybti.net
+0.0.0.0 www.tor.zilog.es
+0.0.0.0 www.tor-mirror.cyberguerrilla.org
+0.0.0.0 www.tormirror.snydernet.net
+0.0.0.0 www.tormirror.tb-itf-tor.de
+0.0.0.0 www.torproject.mirror.metalgamer.eu
+0.0.0.0 www.torproject.ph3x.at
+0.0.0.0 www.torservers.net
+::1 www.108.248.87.242
+::1 www.creep.im
+::1 www.cyberside.net.ee
+::1 www.dist.torproject.org
+::1 www.eprci.com
+::1 www.fr.mirror.babylon.network
+::1 www.it-sicherheitschannel.de
+::1 www.mirror.freedif.org
+::1 www.mirror.ntzk.de
+::1 www.mirror.oldsql.cc
+::1 www.mirror.torworld.org
+::1 www.mirror.velcommuta.de
+::1 www.moparisthebest.com
+::1 www.nl.mirror.babylon.network
+::1 www.sela.io
+::1 www.tor.0x3d.lu
+::1 www.tor.127001.ovh
+::1 www.tor.crazyhaze.de
+::1 www.tor.eff.org
+::1 www.tor.ccc.de
+::1 www.tor.myrl.net
+::1 www.tor.secure.voyage
+::1 www.tor.stalkr.net
+::1 www.tor.void.gr
+::1 www.tor.ybti.net
+::1 www.tor.zilog.es
+::1 www.tor-mirror.cyberguerrilla.org
+::1 www.tormirror.snydernet.net
+::1 www.tormirror.tb-itf-tor.de
+::1 www.torproject.mirror.metalgamer.eu
+::1 www.torproject.ph3x.at
+::1 www.torservers.net
+
+##
+## F-Droid Repos
+##
+0.0.0.0 guardianproject.info
+0.0.0.0 www.guardianproject.info
+::1 guardianproject.info
+::1 www.guardianproject.info
+
+0.0.0.0 guardianproject.s3.amazonaws.com
+0.0.0.0 www.guardianproject.s3.amazonaws.com
+::1 guardianproject.s3.amazonaws.com
+::1 www.guardianproject.s3.amazonaws.com
+
+#0.0.0.0 s3.amazonaws.com
+#0.0.0.0 www.s3.amazonaws.com
+#::1 s3.amazonaws.com
+#::1 www.s3.amazonaws.com

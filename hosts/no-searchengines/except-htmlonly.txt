@@ -1,0 +1,206 @@
+##
+##
+##  No Search Engines but DuckDuckGo's No Javascript Variants (Hosts)
+##
+##  For the purpose of blocking mindless
+##  Internet browsing on mobile devices
+##
+##  NOTE:
+##  This for whitelisting search engines that don't include
+##  image searching and video searching 
+##  
+##
+
+
+
+#
+# Ask
+#
+0.0.0.0 ask.com
+0.0.0.0 www.ask.com
+::1 ask.com
+::1 www.ask.com
+
+
+
+#
+# Baidu
+#
+0.0.0.0 baidu.com
+0.0.0.0 www.baidu.com
+::1 baidu.com
+::1 www.baidu.com
+
+
+
+#
+# Bing
+#
+0.0.0.0 bing.com
+0.0.0.0 www.bing.com
+::1 bing.com
+::1 www.bing.com
+
+
+
+#
+# Brave Search
+#
+0.0.0.0 search.brave.com
+0.0.0.0 www.search.brave.com
+::1 search.brave.com
+::1 www.search.brave.com
+
+
+
+#
+# DuckDuckGo
+#
+0.0.0.0 duckduckgo.com
+0.0.0.0 www.duckduckgo.com
+::1 duckduckgo.com
+::1 www.duckduckgo.com
+
+#0.0.0.0 html.duckduckgo.com
+#0.0.0.0 www.html.duckduckgo.com
+#::1 html.duckduckgo.com
+#::1 www.html.duckduckgo.com
+
+#0.0.0.0 lite.duckduckgo.com
+#0.0.0.0 www.lite.duckduckgo.com
+#::1 lite.duckduckgo.com
+#::1 www.lite.duckduckgo.com
+
+
+
+#
+# Ecosia
+#
+0.0.0.0 ecosia.org
+0.0.0.0 www.ecosia.org
+::1 ecosia.org
+::1 www.ecosia.org
+
+
+
+#
+# Info.com
+#
+0.0.0.0 info.com
+0.0.0.0 www.info.com
+::1 info.com
+::1 www.info.com
+
+
+
+#
+# Lycos
+#
+0.0.0.0 lycos.com
+0.0.0.0 www.lycos.com
+::1 lycos.com
+::1 www.lycos.com
+
+
+
+#
+# MetaCrawler
+#
+0.0.0.0 metacrawler.com
+0.0.0.0 www.metacrawler.com
+::1 metacrawler.com
+::1 www.metacrawler.com
+
+
+
+#
+# MetaGer
+#
+0.0.0.0 metager.org
+0.0.0.0 www.metager.org
+::1 metager.org
+::1 www.metager.org
+
+
+
+#
+# Mojeek
+#
+0.0.0.0 mojeek.com
+0.0.0.0 www.mojeek.com
+::1 mojeek.com
+::1 www.mojeek.com
+
+
+
+#
+# Mullvad Leta
+#
+0.0.0.0 leta.mullvad.net
+0.0.0.0 www.leta.mullvad.net
+::1 leta.mullvad.net
+::1 www.leta.mullvad.net
+
+
+
+#
+# Qwant
+#
+0.0.0.0 qwant.com
+0.0.0.0 www.qwant.com
+::1 qwant.com
+::1 www.qwant.com
+
+
+
+#
+# swisscows
+#
+0.0.0.0 swisscows.com
+0.0.0.0 www.swisscows.com
+::1 swisscows.com
+::1 www.swisscows.com
+
+
+
+#
+# SearX-related
+#
+0.0.0.0 searx.be
+0.0.0.0 www.searx.be
+::1 searx.be
+::1 www.searx.be
+
+
+
+#
+# Startpage
+#
+0.0.0.0 startpage.com
+0.0.0.0 eu-browse.startpage.com
+0.0.0.0 www.startpage.com
+0.0.0.0 www.eu-browse.startpage.com
+::1 startpage.com
+::1 eu-browse.startpage.com
+::1 www.startpage.com
+::1 www.eu-browse.startpage.com
+
+
+
+#
+# Yahoo Search
+#
+0.0.0.0 search.yahoo.com
+0.0.0.0 www.search.yahoo.com
+::1 www.search.yahoo.com
+::1 search.yahoo.com
+
+
+
+#
+# You.com
+#
+0.0.0.0 you.com
+0.0.0.0 www.you.com
+::1 you.com
+::1 www.you.com
