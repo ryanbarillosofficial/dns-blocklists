@@ -119,6 +119,15 @@
 ::1 www.qwant.com
 
 #
+# Qwant Lite
+#
+0.0.0.0 lite.qwant.com
+0.0.0.0 www.lite.qwant.com
+::1 lite.qwant.com
+::1 www.lite.qwant.com
+
+
+#
 # swisscows
 #
 0.0.0.0 swisscows.com
