@@ -1,9 +1,9 @@
-#0.0.0.0 m.youtube.com
-#::1 m.youtube.com
-#0.0.0.0 www.m.youtube.com
-#::1 www.m.youtube.com
+0.0.0.0 m.youtube.com
+::0 m.youtube.com
+0.0.0.0 www.m.youtube.com
+::0 www.m.youtube.com
 
 
 # Try Redirect
-172.217.168.46 m.youtube.com
-216.58.215.238  www.m.youtube.com
+#172.217.168.46 m.youtube.com
+#216.58.215.238  www.m.youtube.com
