@@ -1,22 +1,12 @@
-##
-##
-##  No Search Engines but Safe Search Engines
-##
-##  For the purpose of blocking mindless
-##  Internet browsing on mobile devices
-##
-##  Qualifications of a Safe Search Engine:
-##  1. No toggle to change Safe Search mode
-##  2. Safe for kids and teens
-##  3. No NSFW content
-##  
-##  Any search engine meeting one or more  
-##  qualifications are whitelisted
-##
+# No Search Engines
+# Whitelist search engines that have the following:
+#   1. No toggle to change Safe Search mode
+#   2. Safe for kids and teens
+#   3. No NSFW content
+#
+# Last Updated: 2023-28-11
 
-#
 # Ask
-#
 0.0.0.0 ask.com
 0.0.0.0 www.ask.com
 ::1 ask.com

@@ -1,13 +1,6 @@
-##
-##
-##  No Mullvad DNS (Hosts)
-##
-##  Pulled from Mullvad Browser
-##
-##  For the purpose of enforcing your own DNS server without
-##  Mullvad Browser bypassing it with its default providers
-##
-##
+#   No Mullvad DNS (Hosts)
+#   Lock Mullvad Browser to your Private DNS, not circumvent it
+#   Last Updated: 2023-28-11
 
 # Mullvad (Default)
 0.0.0.0 dns.mullvad.net

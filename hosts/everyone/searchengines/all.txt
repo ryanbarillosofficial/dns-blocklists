@@ -1,11 +1,6 @@
-##
-##
-##  No Search Engines (Hosts)
-##
-##  For the purpose of blocking mindless
-##  Internet browsing on mobile devices
-##
-##
+# No Search Engines
+# Disable Internet searching on your mobile devices
+# Last Updated: 2023-28-11
 
 #
 # Ask

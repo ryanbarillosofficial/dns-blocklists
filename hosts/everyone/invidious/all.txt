@@ -1,13 +1,10 @@
-##
-##
-##  Invidious (Hosts)
-##
-##  For the purpose of blocking mindless
-##  Video watching on mobile devices
-##
-##  And a loophole when blocking all YouTube domains
-##
-##
+# Block Invidious (Hosts)
+# No YouTube videos when official YouTube site is blocked
+#   
+# Use in conjunction with "No Google | Youtube (Hosts)" blocklist
+# https://raw.githubusercontent.com/nickspaargaren/no-google/master/categories/youtube.txt
+#
+# Last Updated: 2023-28-11
 
 #
 # Invidious Home Page
