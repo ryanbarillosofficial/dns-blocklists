@@ -1,7 +1,7 @@
 0.0.0.0 m.youtube.com
-::0 m.youtube.com
+:: m.youtube.com
 0.0.0.0 www.m.youtube.com
-::0 www.m.youtube.com
+:: www.m.youtube.com
 
 
 # Try Redirect
