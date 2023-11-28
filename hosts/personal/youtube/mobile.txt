@@ -1,0 +1,4 @@
+0.0.0.0 m.youtube.com
+::1 m.youtube.com
+0.0.0.0 www.m.youtube.com
+::1 www.m.youtube.com
