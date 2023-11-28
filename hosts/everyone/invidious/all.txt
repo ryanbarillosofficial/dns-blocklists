@@ -1,54 +1,42 @@
 # Block Invidious (Hosts)
 # No YouTube videos when official YouTube site is blocked
 #   
-# Use in conjunction with "No Google | Youtube (Hosts)" blocklist
+# Use together with "No Google | Youtube (Hosts)" blocklist
 # https://raw.githubusercontent.com/nickspaargaren/no-google/master/categories/youtube.txt
 #
 # Last Updated: 2023-28-11
 
-#
 # Invidious Home Page
-#
 0.0.0.0 invidious.io
 0.0.0.0 www.invidious.io
 ::1 invidious.io
 ::1 www.invidious.io
 
-#
 # Invidious Documentation Page
-#
 0.0.0.0 docs.invidious.io
 0.0.0.0 www.docs.invidious.io
 ::1 docs.invidious.io
 ::1 www.docs.invidious.io
 
-#
 # Invidious Instances Page
-#
 0.0.0.0 instances.invidious.io
 0.0.0.0 www.instances.invidious.io
 ::1 instances.invidious.io
 ::1 www.instances.invidious.io
 
-#
 # Invidious Redirect
-#
 0.0.0.0 redirect.invidious.io
 0.0.0.0 www.redirect.invidious.io
 ::1 redirect.invidious.io
 ::1 www.redirect.invidious.io
 
-#
 # Invidious API
-#
 0.0.0.0 api.invidious.io
 0.0.0.0 www.api.invidious.io
 ::1 api.invidious.io
 ::1 www.api.invidious.io
 
-#
 # Google Video
-#
 0.0.0.0 googlevideo.com
 0.0.0.0 video.google.com
 0.0.0.0 www.googlevideo.com
@@ -62,9 +50,7 @@
 
 
 
-#
 # Invidious Instances
-#
 0.0.0.0 anontube.lvkaszus.pl
 0.0.0.0 www.anontube.lvkaszus.pl
 ::1 anontube.lvkaszus.pl
@@ -223,9 +209,7 @@
 ::1 www.yt.drgnz.club
 ::1 www.yt.oelrichsgarcia.de
 
-#
 # Misc, can be cnanged
-#
 0.0.0.0 rr1---sn-1gi7znek.googlevideo.com
 0.0.0.0 rr1---sn-1gieen7e.googlevideo.com
 0.0.0.0 rr1---sn-uxgg5-njaes.googlevideo.com
