@@ -50,8 +50,8 @@ def main():
     
     # Move IP addresses to respective list
     for node in nodes:
-        if ipv4Regex.match(node): ipv4.append("0.0.0.0\t" + node)  
-        elif ipv6Regex.match(node): ipv6.append("::0\t" + node)  
+        if ipv4Regex.match(node): ipv4.append("0.0.0.0 " + node)  
+        elif ipv6Regex.match(node): ipv6.append("::0 " + node)  
     
     """
     Push results to .txt file:
