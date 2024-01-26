@@ -1,0 +1,20 @@
+# No App Stores - Android
+#
+# Disable Internet searching on your mobile devices
+# Last Updated: 26 Jan 2024
+
+# APKPure
+0.0.0.0 apkpure.com
+0.0.0.0 apkpure.net
+0.0.0.0 www.apkpure.com
+0.0.0.0 www.apkpure.net
+::0 apkpure.com
+::0 apkpure.net
+::0 www.apkpure.com
+::0 www.apkpure.net
+
+# HappyMod
+0.0.0.0 happymod.com
+0.0.0.0 www.happymod.com
+::0 happymod.com
+::0 www.happymod.com
