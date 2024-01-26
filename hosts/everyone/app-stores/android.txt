@@ -13,6 +13,29 @@
 ::1 www.apkpure.com
 ::1 www.apkpure.net
 
+
+
+# Aptoide
+0.0.0.0 aptoide.com
+0.0.0.0 buzz.aptoide.com
+0.0.0.0 en.aptoide.com
+0.0.0.0 fr.aptoide.com
+::1 aptoide.com
+::1 buzz.aptoide.com
+::1 en.aptoide.com
+
+0.0.0.0 www.aptoide.com
+0.0.0.0 www.buzz.aptoide.com
+0.0.0.0 www.en.aptoide.com
+0.0.0.0 www.fr.aptoide.com
+::1 fr.aptoide.com
+::1 www.aptoide.com
+::1 www.buzz.aptoide.com
+::1 www.en.aptoide.com
+::1 www.fr.aptoide.com
+
+
+
 # HappyMod
 0.0.0.0 happymod.com
 0.0.0.0 www.happymod.com
