@@ -6,12 +6,14 @@
 # APKPure
 0.0.0.0 apkpure.com
 0.0.0.0 apkpure.net
+0.0.0.0 d.cdnpure.com
 0.0.0.0 www.apkpure.com
 0.0.0.0 www.apkpure.net
 ::1 apkpure.com
 ::1 apkpure.net
 ::1 www.apkpure.com
 ::1 www.apkpure.net
+::1 d.cdnpure.com
 
 
 
