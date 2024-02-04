@@ -1,0 +1,39 @@
+# No Game ROM's
+#
+# Last Updated: 2023-28-11
+
+# EmuParadise
+0.0.0.0 emuparadise.me
+0.0.0.0 www.emuparadise.me
+::1 emuparadise.me
+::1 www.emuparadise.me
+
+# Retrostic
+0.0.0.0 retrostic.com
+0.0.0.0 www.retrostic.com
+::1 retrostic.com
+::1 www.retrostic.com
+
+# ROMSFUN.COM
+0.0.0.0 romsfun.com
+0.0.0.0 www.romsfun.com
+::1 romsfun.com
+::1 www.romsfun.com
+
+# ROMs Games
+0.0.0.0 romsgames.net
+0.0.0.0 www.romsgames.net
+::1 romsgames.net
+::1 www.romsgames.net
+
+#TechToROMs
+0.0.0.0 techtoroms.com
+0.0.0.0 www.techtoroms.com
+::1 techtoroms.com
+::1 www.techtoroms.com
+
+# Vimm
+0.0.0.0 vimm.net
+0.0.0.0 www.vimm.net
+::1 vimm.net
+::1 www.vimm.net
