@@ -1,6 +1,43 @@
 # No Game ROM's
+# By Ryan Barillos
 #
-# Last Updated: 2023-28-11
+# Source(s):
+# http://emulation.gametechwiki.com/index.php/ROM_%26_ISO_sites
+# https://www.whatsontech.com/best-safe-rom-sites/
+#
+# Last Updated: 15 Feb 2024
+
+
+
+# /r/Roms Megathread
+0.0.0.0 eagleforces.tistory.com
+0.0.0.0 www.eagleforces.tistory.com
+::1 eagleforces.tistory.com
+::1 www.eagleforces.tistory.com
+
+# Eagle Forces
+0.0.0.0 eagleforces.tistory.com
+0.0.0.0 www.eagleforces.tistory.com
+::1 eagleforces.tistory.com
+::1 www.eagleforces.tistory.com
+
+# EdgeEmu
+0.0.0.0 edgeemu.net
+0.0.0.0 www.edgeemu.net
+::1 edgeemu.net
+::1 www.edgeemu.net
+
+# Emu Games
+0.0.0.0 emugames.net
+0.0.0.0 www.emugames.net
+::1 emugames.net
+::1 www.emugames.net
+
+# Emulanium
+0.0.0.0 emulanium.com
+0.0.0.0 www.emulanium.com
+::1 emulanium.com
+::1 www.emulanium.com
 
 # EmuParadise
 0.0.0.0 emuparadise.me
@@ -8,11 +45,39 @@
 ::1 emuparadise.me
 ::1 www.emuparadise.me
 
+# FreeROMs
+0.0.0.0 freeroms.com
+0.0.0.0 www.freeroms.com
+::1 freeroms.com
+::1 www.freeroms.com
+
+# Gamulator
+0.0.0.0 gamulator.com
+0.0.0.0 www.gamulator.com
+::1 gamulator.com
+::1 www.gamulator.com
+
+# My Abandonware
+0.0.0.0 myabandonware.com
+0.0.0.0 www.myabandonware.com
+::1 myabandonware.com
+::1 www.myabandonware.com
+
+# Myrient
+0.0.0.0 myrient.erista.me
+::1 myrient.erista.me
+
 # Retrostic
 0.0.0.0 retrostic.com
 0.0.0.0 www.retrostic.com
 ::1 retrostic.com
 ::1 www.retrostic.com
+
+# RomsDL
+0.0.0.0 romsdl.com
+0.0.0.0 www.romsdl.com
+::1 romsdl.com
+::1 www.romsdl.com
 
 # ROMSFUN.COM
 0.0.0.0 romsfun.com
@@ -26,7 +91,31 @@
 ::1 romsgames.net
 ::1 www.romsgames.net
 
-#TechToROMs
+# Romspedia
+0.0.0.0 romspedia.com
+0.0.0.0 www.romspedia.com
+::1 romspedia.com
+::1 www.romspedia.com
+
+# ROMs Planet
+0.0.0.0 romsplanet.com
+0.0.0.0 www.romsplanet.com
+::1 romsplanet.com
+::1 www.romsplanet.com
+
+# ROMSPURE.CC
+0.0.0.0 romspure.cc
+0.0.0.0 www.romspure.cc
+::1 romspure.cc
+::1 www.romspure.cc
+
+# RomUlation
+0.0.0.0 romulation.org
+0.0.0.0 www.romulation.org
+::1 romulation.org
+::1 www.romulation.org
+
+# TechToROMs
 0.0.0.0 techtoroms.com
 0.0.0.0 www.techtoroms.com
 ::1 techtoroms.com
@@ -37,3 +126,15 @@
 0.0.0.0 www.vimm.net
 ::1 vimm.net
 ::1 www.vimm.net
+
+# WoWroMs
+0.0.0.0 wowroms.com
+0.0.0.0 www.wowroms.com
+::1 wowroms.com
+::1 www.wowroms.com
+
+# Ziperto
+0.0.0.0 ziperto.com
+0.0.0.0 www.ziperto.com
+::1 ziperto.com
+::1 www.ziperto.com
