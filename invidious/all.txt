@@ -4,7 +4,7 @@
 # Use together with "No Google | Youtube (Hosts)" blocklist
 # https://raw.githubusercontent.com/nickspaargaren/no-google/master/categories/youtube.txt
 #
-# Last Updated: 2023-28-11
+# Last Updated: 21 Feb 2024
 
 # Invidious Home Page
 0.0.0.0 invidious.io
@@ -37,14 +37,15 @@
 ::1 www.api.invidious.io
 
 # Google Video
-0.0.0.0 googlevideo.com
-0.0.0.0 video.google.com
-0.0.0.0 www.googlevideo.com
-0.0.0.0 www.video.google.com
-::1 googlevideo.com
-::1 video.google.com
-::1 www.googlevideo.com
-::1 www.video.google.com
+# NOTE: This API may be used by other YouTube players
+# 0.0.0.0 googlevideo.com
+# 0.0.0.0 video.google.com
+# 0.0.0.0 www.googlevideo.com
+# 0.0.0.0 www.video.google.com
+# ::1 googlevideo.com
+# ::1 video.google.com
+# ::1 www.googlevideo.com
+# ::1 www.video.google.com
 
 
 
