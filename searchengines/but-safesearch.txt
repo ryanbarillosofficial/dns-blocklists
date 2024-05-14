@@ -4,7 +4,7 @@
 #   2. Safe for kids and teens
 #   3. No NSFW content
 #
-# Last Updated: 2023-28-11
+# Last Updated: 14 May 2024
 
 # Ask
 0.0.0.0 ask.com
@@ -35,6 +35,12 @@
 0.0.0.0 www.duckduckgo.com
 ::1 duckduckgo.com
 ::1 www.duckduckgo.com
+
+# DuckDuckGo Start
+0.0.0.0 start.duckduckgo.com
+0.0.0.0 www.start.duckduckgo.com
+::1 start.duckduckgo.com
+::1 www.start.duckduckgo.com
 
 # Ecosia
 0.0.0.0 ecosia.org
