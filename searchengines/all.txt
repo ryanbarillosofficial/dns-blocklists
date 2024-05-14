@@ -1,6 +1,6 @@
 # No Search Engines
 # Disable Internet searching on your mobile devices
-# Last Updated: 2023-28-11
+# Last Updated: 14 May 2024
 
 # Ask
 0.0.0.0 ask.com
@@ -43,6 +43,12 @@
 0.0.0.0 www.lite.duckduckgo.com
 ::1 lite.duckduckgo.com
 ::1 www.lite.duckduckgo.com
+
+# DuckDuckGo Start
+0.0.0.0 start.duckduckgo.com
+0.0.0.0 www.start.duckduckgo.com
+::1 start.duckduckgo.com
+::1 www.start.duckduckgo.com
 
 # Ecosia
 0.0.0.0 ecosia.org
