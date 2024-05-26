@@ -1,0 +1,11 @@
+# Adguard DNS
+0.0.0.0 dns.adguard-dns.com
+::1 dns.adguard-dns.com
+
+# Mullvad (Default)
+0.0.0.0 dns.mullvad.net
+::1 dns.mullvad.net
+
+# Mullvad (Ad-blocking)
+0.0.0.0 adblock.dns.mullvad.net
+::1 adblock.dns.mullvad.net
