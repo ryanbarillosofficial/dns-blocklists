@@ -1,0 +1,28 @@
+# Windows Locaiton
+0.0.0.0 inference.location.live.net
+:: inference.location.live.net
+
+# Windows Spotlight
+0.0.0.0 api.msn.com
+0.0.0.0 arc.msn.com
+0.0.0.0 assets.msn.com
+0.0.0.0 c.msn.com
+0.0.0.0 fd.api.iris.microsoft.com
+0.0.0.0 msn.com
+0.0.0.0 ntp.msn.com
+0.0.0.0 ris.api.iris.microsoft.com
+0.0.0.0 srtb.msn.com
+0.0.0.0 staticview.msn.com
+0.0.0.0 www.msn.com
+:: api.msn.com
+:: arc.msn.com
+:: assets.msn.com
+:: c.msn.com
+:: fd.api.iris.microsoft.com
+:: msn.com
+:: ntp.msn.com
+:: ris.api.iris.microsoft.com
+:: srtb.msn.com
+:: staticview.msn.com
+:: www.msn.com
+
