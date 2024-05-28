@@ -1,0 +1,15 @@
+# Cortana
+0.0.0.0 cortana.ai
+0.0.0.0 www.cortana.ai
+0.0.0.0 api.cortana.ai
+::1 cortana.ai
+::1 www.cortana.ai
+::1 api.cortana.ai
+
+# OpenAI
+0.0.0.0 openai.com
+0.0.0.0 www.openai.com
+0.0.0.0 api.openai.com
+::1 openai.com
+::1 www.openai.com
+::1 api.openai.com
