@@ -1,3 +1,11 @@
+# ChatGPT
+0.0.0.0 chatgpt.com
+0.0.0.0 cdn.chatgpt.com
+0.0.0.0 platform.openai.com
+::1 chatgpt.com
+::1 cdn.chatgpt.com
+::1 platform.openai.com
+
 # Cortana
 0.0.0.0 cortana.ai
 0.0.0.0 www.cortana.ai
@@ -10,6 +18,12 @@
 0.0.0.0 openai.com
 0.0.0.0 www.openai.com
 0.0.0.0 api.openai.com
+0.0.0.0 openaiapi-site-azureedge.net
+0.0.0.0 platform.openai.com
+0.0.0.0 cdn.openai.com
 ::1 openai.com
 ::1 www.openai.com
 ::1 api.openai.com
+::1 openaiapi-site-azureedge.net
+::1 platform.openai.com
+::1 cdn.openai.com
