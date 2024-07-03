@@ -1,6 +1,15 @@
+# No DNS Providers - All Foreign
+#
+# Block any DNS servers that aren't yours
+# Last Updated: 3 Jul 2024
+
 # Adguard DNS
 0.0.0.0 dns.adguard-dns.com
 ::1 dns.adguard-dns.com
+
+# Google
+0.0.0.0 dns.google.com
+::1 dns.google.com
 
 # Mullvad (Default)
 0.0.0.0 dns.mullvad.net
