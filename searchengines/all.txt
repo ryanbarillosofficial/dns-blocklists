@@ -16,9 +16,13 @@
 
 # Bing
 0.0.0.0 bing.com
+0.0.0.0 bing.net
 0.0.0.0 www.bing.com
+0.0.0.0 www.bing.net
 ::1 bing.com
+::1 bing.net
 ::1 www.bing.com
+::1 www.bing.net
 
 # Brave Search
 0.0.0.0 search.brave.com

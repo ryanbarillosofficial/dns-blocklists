@@ -1,0 +1,19 @@
+# Cortana
+0.0.0.0 cortana.ai
+0.0.0.0 www.cortana.ai
+0.0.0.0 api.cortana.ai
+::1 cortana.ai
+::1 www.cortana.ai
+::1 api.cortana.ai
+
+# Microsoft Copilot
+# https://learn.microsoft.com/en-us/copilot/manage
+#
+0.0.0.0 cdp.copilot.microsoft.com
+0.0.0.0 copilot.microsoft.com
+0.0.0.0 www.cdp.copilot.microsoft.com
+0.0.0.0 www.copilot.microsoft.com
+::1 cdp.copilot.microsoft.com
+::1 copilot.microsoft.com
+::1 www.cdp.copilot.microsoft.com
+::1 www.copilot.microsoft.com
